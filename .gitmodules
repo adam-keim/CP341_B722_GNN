@@ -1,0 +1,3 @@
+[submodule "B3DB"]
+	path = B3DB
+	url = git@github.com:theochem/B3DB.git
